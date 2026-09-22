@@ -1,3 +1,4 @@
+<div align="center">
 #  About Me:
 Xin chào , tôi là nopee , cũng có thể gọi tôi là Tiểu Cường (maybe)<br>Tôi hiện tại đang là sinh viên năm 3 :><br>Tôi vẫn đang cố gắng học hỏi và trau dồi bản thân <br>Vì thế xin hãy giúp đỡ tôi ^^! 
 
@@ -11,6 +12,5 @@ Xin chào , tôi là nopee , cũng có thể gọi tôi là Tiểu Cường (may
 ![](https://github-readme-stats.shion.dev/api?username=nopeelqc&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=nopeelqc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nopeelqc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-  
+ </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

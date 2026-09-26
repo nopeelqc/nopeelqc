@@ -1,7 +1,7 @@
 <div align="center">
  
 #  About Me:
-Hello, I am Nopee, you can also call me Little Cường (maybe).  
+Hello, I am Nopee, you can also call me Tiểu Cường (maybe).  
 I am currently a third-year student :>.  
 I am still trying to learn and improve myself.  
 So please help me ^^! 

@@ -1,7 +1,11 @@
 <div align="center">
  
 #  About Me:
-Xin chào , tôi là nopee , cũng có thể gọi tôi là Tiểu Cường (maybe)<br>Tôi hiện tại đang là sinh viên năm 3 :><br>Tôi vẫn đang cố gắng học hỏi và trau dồi bản thân <br>Vì thế xin hãy giúp đỡ tôi ^^! 
+Hello, I am Nopee, you can also call me Little Cường (maybe).  
+I am currently a third-year student :>.  
+I am still trying to learn and improve myself.  
+So please help me ^^! 
+
 
 
 ##  Socials:

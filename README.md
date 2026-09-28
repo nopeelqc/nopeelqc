@@ -18,4 +18,4 @@ So please help me ^^!
 ![](https://streak-stats.demolab.com/?user=nopeelqc&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nopeelqc&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
  </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

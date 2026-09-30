@@ -3,7 +3,8 @@
 #  About Me:
 Hello, I am Nopee, you can also call me Tiểu Cường (maybe).  
 I am currently a third-year student :>.  
-I am still trying to learn and improve myself.  
+I am still trying to learn and improve myself.
+I am very love dev game^^
 So please help me ^^! 
 
 
